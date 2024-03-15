@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francis</h1>
 <h3 align="center">A passionate developer from Ghana. I like experimenting new technologies and building small projects.</h3>
 
-- 👨‍💻 All of my projects are available at [https://fransdroid.xyz](https://fransdroid.xyz)
+- 👨‍💻 All of my projects are available at [https://fransdroid.dev](https://fransdroid.dev)
 
 - 📫 How to reach me **francis300@gmail.com**
 
-- 📄 Know about my experiences [https://fransdroid.xyz/resume.pdf](https://fransdroid.xyz/resume.pdf)
+- 📄 Know about my experiences [https://fransdroid.dev/resume.pdf](https://fransdroid.dev/resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
