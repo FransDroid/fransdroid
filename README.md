@@ -21,4 +21,6 @@
 ## 📊 GitHub Stats
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/fransdroid?cardType=level-alternate&theme=radical&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![](https://raw.githubusercontent.com/fransdroid/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/fransdroid/stats/master/generated/overview.svg#gh-dark-mode-only)
+
+![](https://raw.githubusercontent.com/fransdroid/stats/master/generated/languages.svg#gh-dark-mode-only)
