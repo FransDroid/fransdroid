@@ -18,4 +18,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fransdroid" alt="fransdroid" /></a> </p>
 
-![Fransdroid's GitHub Stats](github-stats.png)
+## 📊 GitHub Stats
+![FransDroid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fransdroid&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
+
