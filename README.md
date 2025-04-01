@@ -19,7 +19,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fransdroid" alt="fransdroid" /></a> </p>
 
-<img alt="fransdroid" src="https://github-readme-stats.vercel.app/api?username=fransdroid&show_icons=true&theme=radical" />
-
 ![Fransdroid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=fransdroid&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight)
 
